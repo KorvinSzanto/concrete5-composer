@@ -1,6 +1,7 @@
 {
   "name": "concrete5/concrete5",
   "description": "concrete5 open source CMS",
+  "version": "5.7.5.1",
   "authors": [
     {
       "name": "PortlandLabs",
@@ -22,6 +23,7 @@
   "config": {
     "optimize-autoloader": true
   },
+  "bin": ["/web/concrete/bin/concrete5"],
   "require": {
     "php": ">=5.3.3",
     "doctrine/dbal": "2.5.*",
