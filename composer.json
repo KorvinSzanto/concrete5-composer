@@ -23,6 +23,7 @@
   "config": {
     "optimize-autoloader": true
   },
+  "bin": ["/web/concrete/bin/concrete5"],
   "require": {
     "php": ">=5.3.3",
     "doctrine/dbal": "2.5.*",
